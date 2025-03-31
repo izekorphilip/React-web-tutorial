@@ -30,8 +30,7 @@
     "@types/node": "22.10.7",
     "@types/react": "19.0.7",
     "@types/react-dom": "19.0.3",
-    "eslint": "^9.23.0",
-    "eslint-plugin-jsx-a11y": "^6.10.2"
+    "eslint": "^9.23.0"
   },
   "pnpm": {
     "ignoredBuiltDependencies": [
